@@ -1,4 +1,4 @@
-#include "main.h"
+#include "simple.h"
 
 /**
  **_memset - fills memory with a constant byte

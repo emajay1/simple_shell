@@ -1,4 +1,4 @@
-#include "main.h"
+#include "simple.h"
 
 /**
  * main - entry point
